@@ -251,11 +251,5 @@ paket-files/
 .idea/
 *.sln.iml
 
-src/Lojasoft.Contarz.Web.Mvc/secrets.json
-src/Lojasoft.Contarz.Web.Host/secrets.json
-src/Lojasoft.Contarz.Migrator/secrets.json
-
-
-/src/Lojasoft.Contarz.Web.Api/App_Data
-/src/Lojasoft.Contarz.Web.Api/App_Data/Logs/Logs.txt
-/src/Lojasoft.Contarz.Web.Api/App_Data/Logs
+# appsetings with connection string
+appsettings.json
